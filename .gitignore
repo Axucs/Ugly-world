@@ -1,2 +1,5 @@
 *.suo
 *.db
+*.ilk
+/dialogup/Charclass/Charclass/x64/Debug
+/dialogup/Charclass/x64/Debug
